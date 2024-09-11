@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, my name is Chakri Nugala, and I am a Software Engineer at Knowledge Lens. I started working there in February 2022. I have a passion for Coding and Cloud related stuff. whenever I have free time, I enjoy working on personal projects.</p>
+<p align="left">Hello, my name is Chakri Nugala, and I am a Software Development Engineer at Tijori. I have a passion for Coding and Cloud related stuff. whenever I have free time, I enjoy working on personal projects.</p>
 
 ###
 
